@@ -1,7 +1,7 @@
 # zwift-touchpad
 
-## Steps
-1. Download [../blob/Zwift.bttpreset]
+## Setup Steps
+1. Save https://raw.githubusercontent.com/nlipke/zwift-touchpad/master/Zwift.bttpreset
 1. Download & Install Better Touch tools https://folivora.ai/downloads
    * Free for 45 days, then License is $6.50 or $20 USD
 1. Open Better Touch tools
@@ -11,3 +11,8 @@
    1. Select Zwift.bttpreset
    1. Click Yes
 1. Open Zwift
+
+## Support
+This is unsupported as-is software. 
+I will give help when I can, please file an issue.
+Pull requests accepted.
